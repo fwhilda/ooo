@@ -23,5 +23,7 @@ jobs:
     name: Test Api
     needs: build
     runs on: ubuntu-latest
+    steps:
+      - uses: actions/checkout-java@v3
       - name: Test API III
         run: mvn clean verify
