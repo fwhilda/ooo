@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User","POST - As admin I have be able to create a new data post","SUCCESS","2023-04-14T20:40:01.873+07:00[Asia/Bangkok]","0.0","32.48"
+"User","Get - As admin I have be able to Get post data based on ID","SUCCESS","2023-04-14T20:40:34.388+07:00[Asia/Bangkok]","0.0","1.64"
+"User","PUT - As admin I have be able to update post data based on ID","SUCCESS","2023-04-14T20:40:36.057+07:00[Asia/Bangkok]","0.0","1.54"
+"User","DELETE - As admin I have be able to Delete post data by ID","SUCCESS","2023-04-14T20:40:37.621+07:00[Asia/Bangkok]","0.0","1.18"
